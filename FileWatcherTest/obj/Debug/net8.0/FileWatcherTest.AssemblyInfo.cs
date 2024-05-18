@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileWatcherTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a1f3a4929080fa91914a52fb9725b83c94a6a8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f7485ad1930f75de6adf9f16eb31eef47b8e5db")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileWatcherTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileWatcherTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

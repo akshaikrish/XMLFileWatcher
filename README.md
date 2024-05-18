@@ -12,7 +12,7 @@ To run the main project, follow these steps:
 
 1. Navigate to the project directory:
     ```
-    cd FileWatcher/FileWatcher
+    cd XMLFileWatcher/FileWatcher
     ```
 2. Configure the input and output folders in appSettings.json.
 
@@ -31,7 +31,7 @@ To run the main project, follow these steps:
 
 1. Navigate to the test project directory:
     ```
-    cd FileWatcher/FileWatcherTest
+    cd XMLFileWatcher/FileWatcherTest
     ```
 
 2. TO build the project:

@@ -51,6 +51,7 @@ namespace FileWatcherTest
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex);
                 return false;
             }
         }
