@@ -112,8 +112,3 @@
 /Users/akshaikrishna/Documents/UK/Startup/Coding/FileWatcher/FileWatcherTest/bin/Debug/net8.0/NLog.dll
 /Users/akshaikrishna/Documents/UK/Startup/Coding/FileWatcher/FileWatcherTest/bin/Debug/net8.0/FileWatcher.dll
 /Users/akshaikrishna/Documents/UK/Startup/Coding/FileWatcher/FileWatcherTest/bin/Debug/net8.0/FileWatcher.pdb
-/Users/akshaikrishna/Documents/UK/Startup/Coding/FileWatcher/FileWatcherTest/bin/Debug/net8.0/Castle.Core.dll
-/Users/akshaikrishna/Documents/UK/Startup/Coding/FileWatcher/FileWatcherTest/bin/Debug/net8.0/Moq.dll
-/Users/akshaikrishna/Documents/UK/Startup/Coding/FileWatcher/FileWatcherTest/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
-/Users/akshaikrishna/Documents/UK/Startup/Coding/FileWatcher/FileWatcherTest/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
-/Users/akshaikrishna/Documents/UK/Startup/Coding/FileWatcher/FileWatcherTest/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll

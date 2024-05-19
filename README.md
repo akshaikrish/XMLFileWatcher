@@ -10,22 +10,24 @@ git clone https://github.com/akshaikrish/XMLFileWatcher.git
 
 To run the main project, follow these steps:
 
-1. Navigate to the project directory:
+1. Open a terminal or command prompt and navigate to the project directory by running:
     ```
     cd XMLFileWatcher/FileWatcher
     ```
-2. Configure the input and output folders in appSettings.json.
+2. Edit the `appSettings.json` file in the project directory to set the appropriate paths for the input and output folders.
 
 
-3. TO build the project:
+3. Build the project using the following command:
     ```
     dotnet build
     ```
 
-3. To run the project
+4. Run the project with the following command:
     ```
     dotnet run
     ```
+5. Program logs are available at `XMLFileWatcher/FileWatcher/bin/Debug/net8.0/filewatcher.log`.
+    
 
 ## Running the Test Project
 
@@ -34,12 +36,12 @@ To run the main project, follow these steps:
     cd XMLFileWatcher/FileWatcherTest
     ```
 
-2. TO build the project:
+2. Build the project using the following command:
     ```
     dotnet build
     ```
 
-3. To run the project
+3. Run the project using the following command:
     ```
     dotnet test
     ```

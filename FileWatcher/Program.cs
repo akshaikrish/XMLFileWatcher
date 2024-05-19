@@ -168,38 +168,5 @@ namespace FileWatcher
             }
         }
         
-        // public static bool ValidateMrnFormat(string xmlContent)
-        // {
-        //     try
-        //     {
-        //         XmlDocument doc = new XmlDocument();
-        //         doc.LoadXml(xmlContent);
-        //
-        //         XmlNode mrnNode = doc.SelectSingleNode("//mrn");
-        //
-        //         if (mrnNode == null)
-        //         {
-        //             Logger.Error("MRN field is missing in the XML file.");
-        //             return false;
-        //         }
-        //
-        //         string mrn = mrnNode.InnerText.Trim(); // Trim whitespace
-        //
-        //         if (string.IsNullOrWhiteSpace(mrn)) // Check if empty or contains only whitespace
-        //         {
-        //             Logger.Error("MRN field is empty in the XML file.");
-        //             return false;
-        //         }
-        //
-        //         return Regex.IsMatch(mrn, @"^\d{7}[A-Za-z]$");
-        //     }
-        //     catch (Exception ex)
-        //     {
-        //         Logger.Error(ex, "Error processing XML content.");
-        //         return false;
-        //     }
-        // }
-
-
     }
 }

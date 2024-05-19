@@ -1,7 +1,4 @@
 using Xunit;
-using FileWatcher;
-using Microsoft.Extensions.Configuration;
-using Moq;
 using System.Xml;
 using System.Text.RegularExpressions;
 
@@ -17,12 +14,12 @@ namespace FileWatcherTest
         [InlineData("<root><mrn>ABCDEFGH</mrn></root>", false)]
         [InlineData("<root><mrn></mrn></root>", false)]
         [InlineData("<root></root>", false)]
+        [InlineData("", false)]
         public void ValidateMrnFormat_ShouldReturnExpectedResult(string xmlContent, bool expectedResult)
         {
             
             bool result = ValidateMrnFormat(xmlContent);
 
-            // Assert
             Assert.Equal(expectedResult, result);
         }
         
